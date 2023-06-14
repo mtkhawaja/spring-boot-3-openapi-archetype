@@ -21,7 +21,7 @@ Maven Archetype for generating basic Java 17 Spring Boot 3 projects with OpenAPI
 mvn archetype:generate \
   -DarchetypeGroupId="com.muneebkhawaja" \
   -DarchetypeArtifactId="spring-boot-3-openapi-archetype" \
-  -DarchetypeVersion="0.0-1-SNAPSHOT" \
+  -DarchetypeVersion="1.0.0" \
   -DgroupId="com.example" \
   -DartifactId="api" \
   -Dpackage="com.example.api" \
